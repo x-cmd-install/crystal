@@ -1,0 +1,69 @@
+about:
+  description: The Crystal Programming Language
+  license: Apache-2.0
+  homepage: https://crystal-lang.org
+  head: 68c27b8
+  archived: false
+  latestVersion: 1.21.0
+  collectedAt: 2026-09-04T04:49:50Z
+timeline:
+  created: 2012-11-27
+  lastCommit: 2026-09-03
+  lastRelease: 2026-07-16
+popularity:
+  star: 20399
+  watcher: 402
+  fork: 1697
+  release: 144
+  contributor: 545
+  pullRequest: 1656
+  issue: 8110
+language:
+  Crystal: 14410900
+  Shell: 78875
+  JavaScript: 58844
+  HTML: 38611
+  Makefile: 29479
+  PowerShell: 27811
+  Python: 21082
+  CSS: 19314
+  Inno Setup: 16460
+  Nix: 5600
+  C++: 3270
+  C: 2568
+  Ruby: 133
+  Batchfile: 98
+totalLine: 14713045
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 83
+    openPR: 32
+    closedIssue: 18
+    openIssue: 25
+    commit: 110
+  last90d:
+    since: 2026-06-06
+    release: 2
+    mergedPR: 168
+    openPR: 48
+    closedIssue: 29
+    openIssue: 44
+    commit: 212
+  last180d:
+    since: 2026-03-08
+    release: 6
+    mergedPR: 374
+    openPR: 72
+    closedIssue: 72
+    openIssue: 69
+    commit: 459
+  last360d:
+    since: 2025-09-09
+    release: 11
+    mergedPR: 739
+    openPR: 99
+    closedIssue: 155
+    openIssue: 128
+    commit: 902
