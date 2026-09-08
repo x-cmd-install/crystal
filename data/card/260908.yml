@@ -5,7 +5,7 @@ about:
   head: ac3dd78
   archived: false
   latestVersion: "1.21.0"
-  collectedAt: 2026-09-08T01:41:18Z
+  collectedAt: 2026-09-08T04:28:14Z
 timeline:
   created: 2012-11-27
   lastCommit: 2026-09-07
@@ -92,7 +92,7 @@ total:
   commit: 16970
 ---
 path: /home/runner/.x-repo/github.com/crystal-lang/crystal
-collectedAt: 2026-09-08T01:41:29Z
+collectedAt: 2026-09-08T04:28:23Z
 loc:
   Crystal:
     code: 386958

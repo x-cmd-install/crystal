@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 59332679,
       "digest": "sha256:7fc4af56b0cb5c7ea5703f744c6629bb19ff36ba3abbf232d50e40c39a20ee16",
-      "download_count": 17371,
+      "download_count": 17402,
       "created_at": "2026-07-16T14:25:20Z",
       "updated_at": "2026-07-16T14:27:43Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-1-darwin-universal.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 54372387,
       "digest": "sha256:87e042842baad7a03014dba819fe74bd81ba221d2a84200984433bcfb691d133",
-      "download_count": 701,
+      "download_count": 706,
       "created_at": "2026-07-16T14:25:20Z",
       "updated_at": "2026-07-16T14:27:39Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-1-linux-aarch64-bundled.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 54136200,
       "digest": "sha256:4f30da9ff083dc485652e3d9b04d7e82cc4c49fb6e8ab3bac76cbde24d960778",
-      "download_count": 3812,
+      "download_count": 3848,
       "created_at": "2026-07-16T14:25:20Z",
       "updated_at": "2026-07-16T14:27:28Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-1-linux-aarch64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 58168482,
       "digest": "sha256:cc407bd071915cc7b5d9348281e669a911d20a1f4b9fac52a62088660eb22208",
-      "download_count": 1304,
+      "download_count": 1312,
       "created_at": "2026-07-16T14:25:20Z",
       "updated_at": "2026-07-16T14:27:17Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-1-linux-x86_64-bundled.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 57910155,
       "digest": "sha256:744561ee3cee1b06d106cf9ae99b8064b4e017518ac414d6dd23cfafe36560c9",
-      "download_count": 58960,
+      "download_count": 59221,
       "created_at": "2026-07-16T14:25:20Z",
       "updated_at": "2026-07-16T14:27:17Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-1-linux-x86_64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 60678025,
       "digest": "sha256:f5d11da3b1727ef49e4acffabcebab6229a631886f6164a94475be1f1390ae83",
-      "download_count": 70,
+      "download_count": 80,
       "created_at": "2026-07-16T14:27:28Z",
       "updated_at": "2026-07-16T14:28:13Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-windows-aarch64-gnu-unsupported.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 62204829,
       "digest": "sha256:d0f6f50b16720b240a4c49563c7670ddf1a790fd84c04b29d09818cd9b20608f",
-      "download_count": 383,
+      "download_count": 384,
       "created_at": "2026-07-16T16:05:53Z",
       "updated_at": "2026-07-16T16:06:32Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-windows-x86_64-gnu-unsupported.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 37138468,
       "digest": "sha256:6b0cd091199937bb89b07736d7e899c292b2d89c5074d292a7c5b22e08dd3f2f",
-      "download_count": 728,
+      "download_count": 729,
       "created_at": "2026-07-16T16:12:47Z",
       "updated_at": "2026-07-16T16:13:01Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-windows-x86_64-msvc-unsupported.exe"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 51869479,
       "digest": "sha256:1c691057aa9b17623e021a40f569ca10ce454eae068b61bba2615893249751a7",
-      "download_count": 7318,
+      "download_count": 7348,
       "created_at": "2026-07-16T16:05:53Z",
       "updated_at": "2026-07-16T16:06:29Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-windows-x86_64-msvc-unsupported.zip"
