@@ -5,9 +5,9 @@ The Crystal Programming Language
 - **Upstream**: <https://github.com/crystal-lang/crystal>
 - **Homepage**: <https://crystal-lang.org>
 - **Latest release**: `1.21.0` (2026-07-16)
-- **Last commit**: 2026-09-08
+- **Last commit**: 2026-09-09
 - **License**: Apache-2.0
-- **Stars**: 20396 · **Forks**: 1697 · **Open issues**: 8115 · **Contributors**: 541
+- **Stars**: 20398 · **Forks**: 1699 · **Open issues**: 8116 · **Contributors**: 541
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/crystal> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T10:38:31Z._
+_Last regenerated: 2026-09-09T18:44:57Z._
