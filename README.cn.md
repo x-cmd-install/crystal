@@ -4,7 +4,7 @@
 
 The Crystal Programming Language
 
-![crystal](https://repo.x-cmd.io/crystal.svg)
+![crystal](https://repo.x-cmd.io/crystal.svg?lang=zh)
 
 ## 安装
 
@@ -21,36 +21,51 @@ x install crystal
 ## 发布
 
 - **最新版本**: `1.21.0` (2026-07-16)
-- **最近提交**: 2026-09-09
+- **最近提交**: 2026-09-10
 - **Release 含资产**: 11 个
-- **发布时间**: 2026-07-16T15:49:00Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [crystal-1.21.0-1-darwin-universal.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-1-darwin-universal.tar.gz) | 56.6 MiB | `native/darwin/x64` |
+| [crystal-1.21.0-1-linux-aarch64-bundled.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-1-linux-aarch64-bundled.tar.gz) | 51.9 MiB | `native/linux/arm64` |
+| [crystal-1.21.0-1-linux-aarch64.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-1-linux-aarch64.tar.gz) | 51.6 MiB | `native/linux/arm64` |
+| [crystal-1.21.0-1-linux-x86_64-bundled.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-1-linux-x86_64-bundled.tar.gz) | 55.5 MiB | `native/linux/x64` |
+| [crystal-1.21.0-1-linux-x86_64.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-1-linux-x86_64.tar.gz) | 55.2 MiB | `native/linux/x64` |
+| [crystal-1.21.0-1.universal.pkg](https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-1.universal.pkg) | 56.7 MiB | `other` |
+| [crystal-1.21.0-docs.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-docs.tar.gz) | 16.5 MiB | `native/unknown` |
+| [crystal-1.21.0-windows-aarch64-gnu-unsupported.zip](https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-windows-aarch64-gnu-unsupported.zip) | 57.9 MiB | `native/win/arm64` |
+| [crystal-1.21.0-windows-x86_64-gnu-unsupported.zip](https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-windows-x86_64-gnu-unsupported.zip) | 59.3 MiB | `native/win/x64` |
+| [crystal-1.21.0-windows-x86_64-msvc-unsupported.exe](https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-windows-x86_64-msvc-unsupported.exe) | 35.4 MiB | `native/win/x64` |
+| [crystal-1.21.0-windows-x86_64-msvc-unsupported.zip](https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-windows-x86_64-msvc-unsupported.zip) | 49.5 MiB | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 20,400 · **Fork**: 1,699 · **开放 issue**: 8,116 · **贡献者**: 541
+- **Star**: 20,400 · **Fork**: 1,700 · **开放 issue**: 8,116 · **贡献者**: 541
 
 ## 累计统计
 
-- **发布数**: 144 · **已合并 PR**: 7440 · **开放 PR**: 303 · **已关闭 issue**: 6384 · **开放 issue**: 1732 · **提交数**: 16982
+- **发布数**: 144 · **已合并 PR**: 7445 · **开放 PR**: 300 · **已关闭 issue**: 6387 · **开放 issue**: 1729 · **提交数**: 16987
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 93 | 34 | 12 | 22 | 126 |
-| 90d | 2026-06-12 | 2 | 178 | 49 | 32 | 45 | 224 |
-| 360d | 2025-09-15 | 11 | 762 | 102 | 158 | 129 | 922 |
+| 30d | 2026-08-11 | 0 | 97 | 32 | 13 | 21 | 131 |
+| 90d | 2026-06-12 | 2 | 183 | 46 | 33 | 44 | 229 |
+| 360d | 2025-09-15 | 11 | 767 | 99 | 159 | 128 | 927 |
 
 ## 代码规模
 
-合计: **403,320** 行代码（覆盖前 5 种语言、共 **2470** 个文件）。
+合计: **403,543** 行代码（覆盖前 5 种语言、共 **2470** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Crystal | 386,884 | 56,464 | 69,467 | 2420 |
+| Crystal | 387,105 | 56,510 | 69,515 | 2420 |
 | JavaScript | 10,211 | 1,110 | 1,359 | 14 |
 | Css | 1,372 | 46 | 249 | 7 |
-| Sh | 783 | 273 | 202 | 17 |
+| Sh | 785 | 270 | 202 | 17 |
 | PowerShell | 610 | 65 | 79 | 12 |
 
 ## OpenSSF Scorecard 评分
@@ -72,4 +87,4 @@ crystal 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:41:25Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:11:09Z._
