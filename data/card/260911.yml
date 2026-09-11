@@ -2,28 +2,28 @@ about:
   description: "The Crystal Programming Language"
   license: Apache-2.0
   homepage: https://crystal-lang.org
-  head: 97225c4
+  head: 10d01ab
   archived: false
   latestVersion: "1.21.0"
   latestRelease: "1.21.0"
   latestPrerelease: "0.24.0"
-  collectedAt: 2026-09-11T04:34:08Z
+  collectedAt: 2026-09-11T20:25:38Z
 timeline:
   created: 2012-11-27
-  lastCommit: 2026-09-10
+  lastCommit: 2026-09-11
   lastVersion: 2026-07-16
   lastRelease: 2026-07-16
   lastPrerelease: 2017-10-30
 popularity:
-  star: 20402
+  star: 20405
   watcher: 403
   fork: 1702
   release: 144
   contributor: 541
-  pullRequest: 9109
-  issue: 8117
+  pullRequest: 9113
+  issue: 8119
 language:
-  Crystal: 14445142
+  Crystal: 14449327
   Shell: 78927
   JavaScript: 58844
   HTML: 38611
@@ -37,71 +37,71 @@ language:
   C: 2568
   Ruby: 133
   Batchfile: 98
-totalBytes: 14747405
+totalBytes: 14751590
 recent:
   last30d:
     since: 2026-08-12
     release: 0
-    mergedPR: 91
-    openPR: 37
-    closedIssue: 12
-    openIssue: 20
-    commit: 133
+    mergedPR: 94
+    openPR: 38
+    closedIssue: 13
+    openIssue: 21
+    commit: 136
   last60d:
     since: 2026-07-13
     release: 1
-    mergedPR: 145
-    openPR: 47
-    closedIssue: 30
-    openIssue: 40
-    commit: 191
+    mergedPR: 148
+    openPR: 48
+    closedIssue: 31
+    openIssue: 41
+    commit: 194
   last90d:
     since: 2026-06-13
     release: 2
-    mergedPR: 182
-    openPR: 51
-    closedIssue: 33
-    openIssue: 45
-    commit: 231
+    mergedPR: 185
+    openPR: 52
+    closedIssue: 34
+    openIssue: 46
+    commit: 234
   last180d:
     since: 2026-03-15
     release: 6
-    mergedPR: 382
-    openPR: 78
-    closedIssue: 73
-    openIssue: 70
-    commit: 474
+    mergedPR: 385
+    openPR: 79
+    closedIssue: 74
+    openIssue: 71
+    commit: 477
   last360d:
     since: 2025-09-16
     release: 11
-    mergedPR: 767
-    openPR: 104
-    closedIssue: 159
-    openIssue: 129
-    commit: 929
+    mergedPR: 770
+    openPR: 105
+    closedIssue: 160
+    openIssue: 130
+    commit: 932
   last720d:
     since: 2024-09-21
     release: 21
-    mergedPR: 1484
-    openPR: 123
-    closedIssue: 337
-    openIssue: 278
-    commit: 1518
+    mergedPR: 1487
+    openPR: 124
+    closedIssue: 338
+    openIssue: 279
+    commit: 1521
 total:
   release: 144
-  mergedPR: 7446
-  openPR: 304
-  closedIssue: 6388
+  mergedPR: 7449
+  openPR: 305
+  closedIssue: 6390
   openIssue: 1729
-  commit: 16988
+  commit: 16991
 ---
 path: /home/runner/.x-repo/github.com/crystal-lang/crystal
-collectedAt: 2026-09-11T04:34:19Z
+collectedAt: 2026-09-11T20:25:49Z
 loc:
   Crystal:
-    code: 387105
-    comments: 56508
-    blanks: 69515
+    code: 387180
+    comments: 56532
+    blanks: 69530
     files: 2420
   JavaScript:
     code: 10211
@@ -224,9 +224,9 @@ loc:
     blanks: 2536
     files: 27
 total:
-  code: 403629
-  comments: 76099
-  blanks: 77313
+  code: 403704
+  comments: 76123
+  blanks: 77328
   files: 2598
 ---
 date: "2026-09-07"
