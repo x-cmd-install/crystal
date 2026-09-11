@@ -7,7 +7,7 @@ about:
   latestVersion: "1.21.0"
   latestRelease: "1.21.0"
   latestPrerelease: "0.24.0"
-  collectedAt: 2026-09-11T00:16:26Z
+  collectedAt: 2026-09-11T04:34:08Z
 timeline:
   created: 2012-11-27
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-07-16
   lastPrerelease: 2017-10-30
 popularity:
-  star: 20400
+  star: 20402
   watcher: 403
   fork: 1702
   release: 144
   contributor: 541
-  pullRequest: 9107
+  pullRequest: 9109
   issue: 8117
 language:
   Crystal: 14445142
@@ -43,7 +43,7 @@ recent:
     since: 2026-08-12
     release: 0
     mergedPR: 91
-    openPR: 35
+    openPR: 37
     closedIssue: 12
     openIssue: 20
     commit: 133
@@ -51,7 +51,7 @@ recent:
     since: 2026-07-13
     release: 1
     mergedPR: 145
-    openPR: 45
+    openPR: 47
     closedIssue: 30
     openIssue: 40
     commit: 191
@@ -59,7 +59,7 @@ recent:
     since: 2026-06-13
     release: 2
     mergedPR: 182
-    openPR: 49
+    openPR: 51
     closedIssue: 33
     openIssue: 45
     commit: 231
@@ -67,7 +67,7 @@ recent:
     since: 2026-03-15
     release: 6
     mergedPR: 382
-    openPR: 76
+    openPR: 78
     closedIssue: 73
     openIssue: 70
     commit: 474
@@ -75,7 +75,7 @@ recent:
     since: 2025-09-16
     release: 11
     mergedPR: 767
-    openPR: 102
+    openPR: 104
     closedIssue: 159
     openIssue: 129
     commit: 929
@@ -83,20 +83,20 @@ recent:
     since: 2024-09-21
     release: 21
     mergedPR: 1484
-    openPR: 121
+    openPR: 123
     closedIssue: 337
     openIssue: 278
     commit: 1518
 total:
   release: 144
   mergedPR: 7446
-  openPR: 302
+  openPR: 304
   closedIssue: 6388
   openIssue: 1729
   commit: 16988
 ---
 path: /home/runner/.x-repo/github.com/crystal-lang/crystal
-collectedAt: 2026-09-11T00:16:37Z
+collectedAt: 2026-09-11T04:34:19Z
 loc:
   Crystal:
     code: 387105
