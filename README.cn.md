@@ -14,11 +14,11 @@ x install crystal
 
 ## 代码洞察
 
-合计: **406,823** 行代码（覆盖前 5 种语言、共 **2472** 个文件）。
+合计: **406,853** 行代码（覆盖前 5 种语言、共 **2472** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Crystal | 390,342 | 56,761 | 69,819 | 2422 |
+| Crystal | 390,372 | 56,781 | 69,826 | 2422 |
 | JavaScript | 10,211 | 1,110 | 1,359 | 14 |
 | Css | 1,372 | 46 | 249 | 7 |
 | Sh | 785 | 270 | 202 | 17 |
@@ -42,44 +42,44 @@ x install crystal
 
 ## 发布
 
-- **最新版本**: `1.21.0` (2026-07-16)
-- **最近提交**: 2026-09-25
+- **最新版本**: `1.21.1` (2026-09-26)
+- **最近提交**: 2026-09-26
 - **Release 含资产**: 11 个
 
 ## 流行度
 
-- **Star**: 20,424 · **Fork**: 1,709 · **开放 issue**: 8,131 · **贡献者**: 543
+- **Star**: 20,427 · **Fork**: 1,710 · **开放 issue**: 8,133 · **贡献者**: 543
 
 ## 累计统计
 
-- **发布数**: 144 · **已合并 PR**: 7502 · **开放 PR**: 314 · **已关闭 issue**: 6407 · **开放 issue**: 1724 · **提交数**: 17037
+- **发布数**: 145 · **已合并 PR**: 7507 · **开放 PR**: 312 · **已关闭 issue**: 6407 · **开放 issue**: 1726 · **提交数**: 17040
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 0 | 90 | 41 | 9 | 18 | 114 |
-| last60d | 2026-07-28 | 0 | 172 | 51 | 33 | 35 | 198 |
-| 90d | 2026-06-28 | 2 | 217 | 59 | 43 | 44 | 258 |
-| last180d | 2026-03-30 | 6 | 404 | 88 | 78 | 69 | 485 |
-| 360d | 2025-10-01 | 11 | 806 | 112 | 166 | 128 | 957 |
-| last720d | 2024-10-06 | 21 | 1520 | 132 | 335 | 276 | 1550 |
+| 30d | 2026-08-28 | 1 | 89 | 39 | 8 | 19 | 84 |
+| last60d | 2026-07-29 | 1 | 176 | 49 | 33 | 37 | 196 |
+| 90d | 2026-06-29 | 3 | 222 | 57 | 43 | 46 | 252 |
+| last180d | 2026-03-31 | 7 | 408 | 86 | 77 | 71 | 483 |
+| 360d | 2025-10-02 | 12 | 809 | 110 | 165 | 130 | 954 |
+| last720d | 2024-10-07 | 22 | 1522 | 130 | 334 | 277 | 1553 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [crystal-1.21.0-1-darwin-universal.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-1-darwin-universal.tar.gz) | 56.6 MiB | `native/darwin/x64` |
-| [crystal-1.21.0-1-linux-aarch64-bundled.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-1-linux-aarch64-bundled.tar.gz) | 51.9 MiB | `native/linux/arm64` |
-| [crystal-1.21.0-1-linux-aarch64.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-1-linux-aarch64.tar.gz) | 51.6 MiB | `native/linux/arm64` |
-| [crystal-1.21.0-1-linux-x86_64-bundled.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-1-linux-x86_64-bundled.tar.gz) | 55.5 MiB | `native/linux/x64` |
-| [crystal-1.21.0-1-linux-x86_64.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-1-linux-x86_64.tar.gz) | 55.2 MiB | `native/linux/x64` |
-| [crystal-1.21.0-1.universal.pkg](https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-1.universal.pkg) | 56.7 MiB | `other` |
-| [crystal-1.21.0-docs.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-docs.tar.gz) | 16.5 MiB | `native/unknown` |
-| [crystal-1.21.0-windows-aarch64-gnu-unsupported.zip](https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-windows-aarch64-gnu-unsupported.zip) | 57.9 MiB | `native/win/arm64` |
-| [crystal-1.21.0-windows-x86_64-gnu-unsupported.zip](https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-windows-x86_64-gnu-unsupported.zip) | 59.3 MiB | `native/win/x64` |
-| [crystal-1.21.0-windows-x86_64-msvc-unsupported.exe](https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-windows-x86_64-msvc-unsupported.exe) | 35.4 MiB | `native/win/x64` |
-| [crystal-1.21.0-windows-x86_64-msvc-unsupported.zip](https://github.com/crystal-lang/crystal/releases/download/1.21.0/crystal-1.21.0-windows-x86_64-msvc-unsupported.zip) | 49.5 MiB | `native/win/x64` |
+| [crystal-1.21.1-1-darwin-universal.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.21.1/crystal-1.21.1-1-darwin-universal.tar.gz) | 56.6 MiB | `native/darwin/x64` |
+| [crystal-1.21.1-1-linux-aarch64-bundled.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.21.1/crystal-1.21.1-1-linux-aarch64-bundled.tar.gz) | 51.9 MiB | `native/linux/arm64` |
+| [crystal-1.21.1-1-linux-aarch64.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.21.1/crystal-1.21.1-1-linux-aarch64.tar.gz) | 51.6 MiB | `native/linux/arm64` |
+| [crystal-1.21.1-1-linux-x86_64-bundled.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.21.1/crystal-1.21.1-1-linux-x86_64-bundled.tar.gz) | 55.5 MiB | `native/linux/x64` |
+| [crystal-1.21.1-1-linux-x86_64.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.21.1/crystal-1.21.1-1-linux-x86_64.tar.gz) | 55.2 MiB | `native/linux/x64` |
+| [crystal-1.21.1-1.universal.pkg](https://github.com/crystal-lang/crystal/releases/download/1.21.1/crystal-1.21.1-1.universal.pkg) | 56.7 MiB | `other` |
+| [crystal-1.21.1-docs.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.21.1/crystal-1.21.1-docs.tar.gz) | 16.5 MiB | `native/unknown` |
+| [crystal-1.21.1-windows-aarch64-gnu-unsupported.zip](https://github.com/crystal-lang/crystal/releases/download/1.21.1/crystal-1.21.1-windows-aarch64-gnu-unsupported.zip) | 59.5 MiB | `native/win/arm64` |
+| [crystal-1.21.1-windows-x86_64-gnu-unsupported.zip](https://github.com/crystal-lang/crystal/releases/download/1.21.1/crystal-1.21.1-windows-x86_64-gnu-unsupported.zip) | 60.7 MiB | `native/win/x64` |
+| [crystal-1.21.1-windows-x86_64-msvc-unsupported.exe](https://github.com/crystal-lang/crystal/releases/download/1.21.1/crystal-1.21.1-windows-x86_64-msvc-unsupported.exe) | 35.7 MiB | `native/win/x64` |
+| [crystal-1.21.1-windows-x86_64-msvc-unsupported.zip](https://github.com/crystal-lang/crystal/releases/download/1.21.1/crystal-1.21.1-windows-x86_64-msvc-unsupported.zip) | 51.4 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -90,4 +90,4 @@ crystal 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260926.yml` · 2026-09-26T04:52:31Z._
+_数据快照: `data/card/260927.yml` · 2026-09-27T05:16:39Z._
