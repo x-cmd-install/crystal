@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.21.1` (2026-09-26)
-- **Last commit**: 2026-10-04
+- **Last commit**: 2026-10-05
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 20,442 · **Forks**: 1,717 · **Open issues**: 8,153 · **Contributors**: 545
+- **Stars**: 20,442 · **Forks**: 1,717 · **Open issues**: 8,154 · **Contributors**: 545
 
 ## Totals (cumulative)
 
-- **Releases**: 145 · **Merged PRs**: 7531 · **Open PRs**: 323 · **Closed issues**: 6419 · **Open issues**: 1734 · **Commits**: 17073
+- **Releases**: 145 · **Merged PRs**: 7533 · **Open PRs**: 331 · **Closed issues**: 6420 · **Open issues**: 1734 · **Commits**: 17075
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 1 | 84 | 44 | 12 | 29 | 81 |
-| last60d | 2026-08-06 | 1 | 194 | 58 | 40 | 45 | 220 |
-| 90d | 2026-07-07 | 2 | 234 | 67 | 51 | 56 | 279 |
-| last180d | 2026-04-08 | 7 | 422 | 97 | 86 | 79 | 500 |
-| 360d | 2025-10-10 | 12 | 821 | 120 | 173 | 139 | 975 |
-| last720d | 2024-10-15 | 21 | 1538 | 141 | 341 | 283 | 1570 |
+| 30d | 2026-09-06 | 1 | 79 | 52 | 11 | 29 | 83 |
+| last60d | 2026-08-07 | 1 | 195 | 66 | 40 | 46 | 222 |
+| 90d | 2026-07-08 | 2 | 235 | 75 | 51 | 56 | 281 |
+| last180d | 2026-04-09 | 7 | 423 | 105 | 86 | 80 | 502 |
+| 360d | 2025-10-11 | 12 | 822 | 128 | 173 | 138 | 977 |
+| last720d | 2024-10-16 | 21 | 1538 | 149 | 339 | 284 | 1570 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for crystal lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T05:31:58Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:25:23Z._
