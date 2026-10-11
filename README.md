@@ -14,11 +14,11 @@ x install crystal
 
 ## Code insight
 
-Total: **407,694** lines of code across **2473** files in the top 5 languages.
+Total: **407,793** lines of code across **2473** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Crystal | 391,217 | 56,846 | 69,992 | 2424 |
+| Crystal | 391,316 | 56,849 | 70,014 | 2424 |
 | JavaScript | 10,211 | 1,110 | 1,359 | 14 |
 | Css | 1,372 | 46 | 249 | 7 |
 | Sh | 782 | 257 | 200 | 16 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.21.1` (2026-09-26)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-10
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 20,447 · **Forks**: 1,718 · **Open issues**: 8,175 · **Contributors**: 547
+- **Stars**: 20,446 · **Forks**: 1,718 · **Open issues**: 8,178 · **Contributors**: 548
 
 ## Totals (cumulative)
 
-- **Releases**: 145 · **Merged PRs**: 7547 · **Open PRs**: 346 · **Closed issues**: 6425 · **Open issues**: 1750 · **Commits**: 17089
+- **Releases**: 145 · **Merged PRs**: 7552 · **Open PRs**: 345 · **Closed issues**: 6427 · **Open issues**: 1751 · **Commits**: 17094
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 1 | 79 | 66 | 15 | 42 | 95 |
-| last60d | 2026-08-11 | 1 | 197 | 81 | 35 | 57 | 234 |
-| 90d | 2026-07-12 | 2 | 248 | 91 | 55 | 72 | 293 |
-| last180d | 2026-04-13 | 7 | 430 | 119 | 89 | 93 | 514 |
-| 360d | 2025-10-15 | 11 | 824 | 143 | 175 | 154 | 989 |
-| last720d | 2024-10-20 | 21 | 1538 | 164 | 343 | 300 | 1577 |
+| 30d | 2026-09-11 | 1 | 79 | 64 | 16 | 42 | 76 |
+| last60d | 2026-08-12 | 1 | 196 | 80 | 35 | 57 | 212 |
+| 90d | 2026-07-13 | 2 | 250 | 90 | 57 | 73 | 286 |
+| last180d | 2026-04-14 | 7 | 433 | 118 | 91 | 94 | 508 |
+| 360d | 2025-10-16 | 11 | 827 | 142 | 177 | 155 | 958 |
+| last720d | 2024-10-21 | 21 | 1537 | 162 | 345 | 300 | 1580 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for crystal lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T05:48:39Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T05:48:22Z._
