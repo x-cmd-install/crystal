@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 20,449 · **Forks**: 1,719 · **Open issues**: 8,191 · **Contributors**: 548
+- **Stars**: 20,452 · **Forks**: 1,719 · **Open issues**: 8,193 · **Contributors**: 548
 
 ## Totals (cumulative)
 
-- **Releases**: 146 · **Merged PRs**: 7558 · **Open PRs**: 354 · **Closed issues**: 6430 · **Open issues**: 1761 · **Commits**: 17098
+- **Releases**: 146 · **Merged PRs**: 7562 · **Open PRs**: 355 · **Closed issues**: 6432 · **Open issues**: 1761 · **Commits**: 17098
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 2 | 71 | 69 | 18 | 51 | 81 |
-| last60d | 2026-08-16 | 2 | 195 | 87 | 34 | 68 | 217 |
-| 90d | 2026-07-17 | 2 | 247 | 96 | 58 | 82 | 291 |
-| last180d | 2026-04-18 | 7 | 433 | 123 | 92 | 104 | 513 |
-| 360d | 2025-10-20 | 11 | 821 | 150 | 177 | 166 | 963 |
-| last720d | 2024-10-25 | 22 | 1531 | 171 | 347 | 309 | 1571 |
+| 30d | 2026-09-16 | 2 | 72 | 69 | 20 | 50 | 81 |
+| last60d | 2026-08-17 | 2 | 196 | 88 | 36 | 68 | 217 |
+| 90d | 2026-07-18 | 2 | 251 | 97 | 60 | 82 | 291 |
+| last180d | 2026-04-19 | 7 | 437 | 124 | 93 | 104 | 513 |
+| 360d | 2025-10-21 | 11 | 819 | 151 | 179 | 164 | 963 |
+| last720d | 2024-10-26 | 22 | 1535 | 172 | 348 | 309 | 1565 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for crystal lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T04:28:38Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:25:28Z._
