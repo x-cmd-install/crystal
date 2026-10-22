@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 20,464 · **Forks**: 1,727 · **Open issues**: 8,198 · **Contributors**: 548
+- **Stars**: 20,465 · **Forks**: 1,729 · **Open issues**: 8,205 · **Contributors**: 548
 
 ## Totals (cumulative)
 
-- **Releases**: 146 · **Merged PRs**: 7570 · **Open PRs**: 365 · **Closed issues**: 6440 · **Open issues**: 1758 · **Commits**: 17099
+- **Releases**: 146 · **Merged PRs**: 7574 · **Open PRs**: 371 · **Closed issues**: 6444 · **Open issues**: 1761 · **Commits**: 17099
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 2 | 68 | 76 | 23 | 49 | 57 |
-| last60d | 2026-08-22 | 2 | 179 | 97 | 41 | 64 | 183 |
-| 90d | 2026-07-23 | 2 | 248 | 105 | 64 | 79 | 264 |
-| last180d | 2026-04-24 | 7 | 425 | 132 | 95 | 100 | 489 |
-| 360d | 2025-10-26 | 10 | 805 | 161 | 183 | 159 | 937 |
-| last720d | 2024-10-31 | 22 | 1533 | 182 | 355 | 305 | 1561 |
+| 30d | 2026-09-22 | 2 | 67 | 81 | 27 | 52 | 57 |
+| last60d | 2026-08-23 | 2 | 177 | 103 | 40 | 66 | 183 |
+| 90d | 2026-07-24 | 2 | 250 | 111 | 67 | 82 | 264 |
+| last180d | 2026-04-25 | 7 | 427 | 137 | 97 | 103 | 489 |
+| 360d | 2025-10-27 | 10 | 804 | 167 | 186 | 160 | 937 |
+| last720d | 2024-11-01 | 22 | 1536 | 188 | 356 | 308 | 1558 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for crystal lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:37:09Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:42:16Z._

@@ -32,7 +32,7 @@ x install crystal
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install crystal
 
 ## 流行度
 
-- **Star**: 20,464 · **Fork**: 1,727 · **开放 issue**: 8,198 · **贡献者**: 548
+- **Star**: 20,465 · **Fork**: 1,729 · **开放 issue**: 8,205 · **贡献者**: 548
 
 ## 累计统计
 
-- **发布数**: 146 · **已合并 PR**: 7570 · **开放 PR**: 365 · **已关闭 issue**: 6440 · **开放 issue**: 1758 · **提交数**: 17099
+- **发布数**: 146 · **已合并 PR**: 7574 · **开放 PR**: 371 · **已关闭 issue**: 6444 · **开放 issue**: 1761 · **提交数**: 17099
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 2 | 68 | 76 | 23 | 49 | 57 |
-| last60d | 2026-08-22 | 2 | 179 | 97 | 41 | 64 | 183 |
-| 90d | 2026-07-23 | 2 | 248 | 105 | 64 | 79 | 264 |
-| last180d | 2026-04-24 | 7 | 425 | 132 | 95 | 100 | 489 |
-| 360d | 2025-10-26 | 10 | 805 | 161 | 183 | 159 | 937 |
-| last720d | 2024-10-31 | 22 | 1533 | 182 | 355 | 305 | 1561 |
+| 30d | 2026-09-22 | 2 | 67 | 81 | 27 | 52 | 57 |
+| last60d | 2026-08-23 | 2 | 177 | 103 | 40 | 66 | 183 |
+| 90d | 2026-07-24 | 2 | 250 | 111 | 67 | 82 | 264 |
+| last180d | 2026-04-25 | 7 | 427 | 137 | 97 | 103 | 489 |
+| 360d | 2025-10-27 | 10 | 804 | 167 | 186 | 160 | 937 |
+| last720d | 2024-11-01 | 22 | 1536 | 188 | 356 | 308 | 1558 |
 
 ## Release 资产
 
@@ -92,4 +92,4 @@ crystal 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T04:37:15Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T04:42:17Z._
