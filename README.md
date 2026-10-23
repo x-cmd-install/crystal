@@ -42,46 +42,46 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `1.22.0` (2026-10-12)
+- **Latest**: `1.22.1` (2026-10-22)
 - **Last commit**: 2026-10-17
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 20,465 · **Forks**: 1,729 · **Open issues**: 8,205 · **Contributors**: 548
+- **Stars**: 20,470 · **Forks**: 1,721 · **Open issues**: 8,205 · **Contributors**: 548
 
 ## Totals (cumulative)
 
-- **Releases**: 146 · **Merged PRs**: 7574 · **Open PRs**: 371 · **Closed issues**: 6444 · **Open issues**: 1761 · **Commits**: 17099
+- **Releases**: 147 · **Merged PRs**: 7579 · **Open PRs**: 372 · **Closed issues**: 6445 · **Open issues**: 1760 · **Commits**: 17099
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 67 | 81 | 27 | 52 | 57 |
-| last60d | 2026-08-23 | 2 | 177 | 103 | 40 | 66 | 183 |
-| 90d | 2026-07-24 | 2 | 250 | 111 | 67 | 82 | 264 |
-| last180d | 2026-04-25 | 7 | 427 | 137 | 97 | 103 | 489 |
-| 360d | 2025-10-27 | 10 | 804 | 167 | 186 | 160 | 937 |
-| last720d | 2024-11-01 | 22 | 1536 | 188 | 356 | 308 | 1558 |
+| 30d | 2026-09-23 | 3 | 68 | 83 | 28 | 51 | 57 |
+| last60d | 2026-08-24 | 3 | 181 | 105 | 41 | 65 | 183 |
+| 90d | 2026-07-25 | 3 | 255 | 111 | 68 | 81 | 264 |
+| last180d | 2026-04-26 | 8 | 430 | 138 | 98 | 101 | 489 |
+| 360d | 2025-10-28 | 11 | 806 | 168 | 187 | 159 | 937 |
+| last720d | 2024-11-02 | 23 | 1540 | 189 | 357 | 307 | 1558 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [crystal-1.22.0-1-darwin-universal.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.22.0/crystal-1.22.0-1-darwin-universal.tar.gz) | 57.0 MiB | `native/darwin/x64` |
-| [crystal-1.22.0-1-linux-aarch64-bundled.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.22.0/crystal-1.22.0-1-linux-aarch64-bundled.tar.gz) | 55.7 MiB | `native/linux/arm64` |
-| [crystal-1.22.0-1-linux-aarch64.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.22.0/crystal-1.22.0-1-linux-aarch64.tar.gz) | 55.5 MiB | `native/linux/arm64` |
-| [crystal-1.22.0-1-linux-x86_64-bundled.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.22.0/crystal-1.22.0-1-linux-x86_64-bundled.tar.gz) | 58.1 MiB | `native/linux/x64` |
-| [crystal-1.22.0-1-linux-x86_64.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.22.0/crystal-1.22.0-1-linux-x86_64.tar.gz) | 57.8 MiB | `native/linux/x64` |
-| [crystal-1.22.0-1.universal.pkg](https://github.com/crystal-lang/crystal/releases/download/1.22.0/crystal-1.22.0-1.universal.pkg) | 57.1 MiB | `other` |
-| [crystal-1.22.0-docs.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.22.0/crystal-1.22.0-docs.tar.gz) | 16.6 MiB | `native/unknown` |
-| [crystal-1.22.0-windows-aarch64-gnu-unsupported.zip](https://github.com/crystal-lang/crystal/releases/download/1.22.0/crystal-1.22.0-windows-aarch64-gnu-unsupported.zip) | 57.9 MiB | `native/win/arm64` |
-| [crystal-1.22.0-windows-aarch64-msvc-unsupported.exe](https://github.com/crystal-lang/crystal/releases/download/1.22.0/crystal-1.22.0-windows-aarch64-msvc-unsupported.exe) | 34.5 MiB | `native/win/arm64` |
-| [crystal-1.22.0-windows-aarch64-msvc-unsupported.zip](https://github.com/crystal-lang/crystal/releases/download/1.22.0/crystal-1.22.0-windows-aarch64-msvc-unsupported.zip) | 47.6 MiB | `native/win/arm64` |
-| [crystal-1.22.0-windows-x86_64-gnu-unsupported.zip](https://github.com/crystal-lang/crystal/releases/download/1.22.0/crystal-1.22.0-windows-x86_64-gnu-unsupported.zip) | 59.6 MiB | `native/win/x64` |
-| [crystal-1.22.0-windows-x86_64-msvc-unsupported.exe](https://github.com/crystal-lang/crystal/releases/download/1.22.0/crystal-1.22.0-windows-x86_64-msvc-unsupported.exe) | 37.3 MiB | `native/win/x64` |
-| [crystal-1.22.0-windows-x86_64-msvc-unsupported.zip](https://github.com/crystal-lang/crystal/releases/download/1.22.0/crystal-1.22.0-windows-x86_64-msvc-unsupported.zip) | 52.6 MiB | `native/win/x64` |
+| [crystal-1.22.1-1-darwin-universal.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.22.1/crystal-1.22.1-1-darwin-universal.tar.gz) | 57.0 MiB | `native/darwin/x64` |
+| [crystal-1.22.1-1-linux-aarch64-bundled.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.22.1/crystal-1.22.1-1-linux-aarch64-bundled.tar.gz) | 56.5 MiB | `native/linux/arm64` |
+| [crystal-1.22.1-1-linux-aarch64.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.22.1/crystal-1.22.1-1-linux-aarch64.tar.gz) | 56.3 MiB | `native/linux/arm64` |
+| [crystal-1.22.1-1-linux-x86_64-bundled.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.22.1/crystal-1.22.1-1-linux-x86_64-bundled.tar.gz) | 59.0 MiB | `native/linux/x64` |
+| [crystal-1.22.1-1-linux-x86_64.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.22.1/crystal-1.22.1-1-linux-x86_64.tar.gz) | 58.8 MiB | `native/linux/x64` |
+| [crystal-1.22.1-1.universal.pkg](https://github.com/crystal-lang/crystal/releases/download/1.22.1/crystal-1.22.1-1.universal.pkg) | 57.2 MiB | `other` |
+| [crystal-1.22.1-docs.tar.gz](https://github.com/crystal-lang/crystal/releases/download/1.22.1/crystal-1.22.1-docs.tar.gz) | 16.6 MiB | `native/unknown` |
+| [crystal-1.22.1-windows-aarch64-gnu-unsupported.zip](https://github.com/crystal-lang/crystal/releases/download/1.22.1/crystal-1.22.1-windows-aarch64-gnu-unsupported.zip) | 57.9 MiB | `native/win/arm64` |
+| [crystal-1.22.1-windows-aarch64-msvc-unsupported.exe](https://github.com/crystal-lang/crystal/releases/download/1.22.1/crystal-1.22.1-windows-aarch64-msvc-unsupported.exe) | 34.5 MiB | `native/win/arm64` |
+| [crystal-1.22.1-windows-aarch64-msvc-unsupported.zip](https://github.com/crystal-lang/crystal/releases/download/1.22.1/crystal-1.22.1-windows-aarch64-msvc-unsupported.zip) | 47.7 MiB | `native/win/arm64` |
+| [crystal-1.22.1-windows-x86_64-gnu-unsupported.zip](https://github.com/crystal-lang/crystal/releases/download/1.22.1/crystal-1.22.1-windows-x86_64-gnu-unsupported.zip) | 59.6 MiB | `native/win/x64` |
+| [crystal-1.22.1-windows-x86_64-msvc-unsupported.exe](https://github.com/crystal-lang/crystal/releases/download/1.22.1/crystal-1.22.1-windows-x86_64-msvc-unsupported.exe) | 37.3 MiB | `native/win/x64` |
+| [crystal-1.22.1-windows-x86_64-msvc-unsupported.zip](https://github.com/crystal-lang/crystal/releases/download/1.22.1/crystal-1.22.1-windows-x86_64-msvc-unsupported.zip) | 52.6 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -92,4 +92,4 @@ Install metadata for crystal lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:42:16Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:42:22Z._
