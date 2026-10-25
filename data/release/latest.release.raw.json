@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 59782867,
       "digest": "sha256:8f2dc1ba8219bb2606a2390b11f903f70be346cfeae869557b7c927f37ed9023",
-      "download_count": 165,
+      "download_count": 342,
       "created_at": "2026-10-22T21:58:46Z",
       "updated_at": "2026-10-22T22:00:42Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.22.1/crystal-1.22.1-1-darwin-universal.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 59274664,
       "digest": "sha256:82047756c04b2506c86ae88f5eccf3bc13b9a1f63bf645161ceafbf4736d8576",
-      "download_count": 10,
+      "download_count": 19,
       "created_at": "2026-10-22T21:58:45Z",
       "updated_at": "2026-10-22T22:01:01Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.22.1/crystal-1.22.1-1-linux-aarch64-bundled.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 59036057,
       "digest": "sha256:da04d3f298cce463508dc3208c364e4a37614d6ed3587792a5330437522bc25d",
-      "download_count": 37,
+      "download_count": 61,
       "created_at": "2026-10-22T21:58:46Z",
       "updated_at": "2026-10-22T22:00:55Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.22.1/crystal-1.22.1-1-linux-aarch64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 61894956,
       "digest": "sha256:8fe554e47ca8c669694956ad8b0fe5847a3304f154e7b52cbd49f5a9deac794d",
-      "download_count": 47,
+      "download_count": 79,
       "created_at": "2026-10-22T21:58:45Z",
       "updated_at": "2026-10-22T22:01:07Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.22.1/crystal-1.22.1-1-linux-x86_64-bundled.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 61637170,
       "digest": "sha256:a4c4b7060bd7f44a17017442bf833e8e0638a495e9f6eec3781d9c63a0c1a128",
-      "download_count": 609,
+      "download_count": 1193,
       "created_at": "2026-10-22T21:58:46Z",
       "updated_at": "2026-10-22T22:01:00Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.22.1/crystal-1.22.1-1-linux-x86_64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 59940384,
       "digest": "sha256:5008d4b862c1e2b83e3c4a3fcbeac5e94f6bb226b0c4dd9e4997e8609dde0cc7",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-10-22T22:00:43Z",
       "updated_at": "2026-10-22T22:03:04Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.22.1/crystal-1.22.1-1.universal.pkg"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 17428649,
       "digest": "sha256:aedc33a65d35b37cace325d399e016622a4b54639cbd7a8182c4edccad4e1d45",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-22T22:00:57Z",
       "updated_at": "2026-10-22T22:01:34Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.22.1/crystal-1.22.1-docs.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 60706246,
       "digest": "sha256:26a5893970949139944ca14d5c03644f57f9273c9f681679be47a89aae567088",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-10-22T22:01:00Z",
       "updated_at": "2026-10-22T22:03:25Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.22.1/crystal-1.22.1-windows-aarch64-gnu-unsupported.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 49973577,
       "digest": "sha256:b6c9475d62c74d01ee3cc94886cc63cc9f41bb735c8c828d65857ad25e35ba41",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-10-22T22:01:10Z",
       "updated_at": "2026-10-22T22:03:06Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.22.1/crystal-1.22.1-windows-aarch64-msvc-unsupported.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 62464668,
       "digest": "sha256:5152b58f4a400cf7d88b3ce489be7d8199c16a1588a6ad5b465a250f88cf53e0",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-10-22T22:01:35Z",
       "updated_at": "2026-10-22T22:03:50Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.22.1/crystal-1.22.1-windows-x86_64-gnu-unsupported.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 39121113,
       "digest": "sha256:71c4f789f41115a6eb70dd9a6df2014f75e80ac3b73446e70dec7634a198f91e",
-      "download_count": 51,
+      "download_count": 89,
       "created_at": "2026-10-22T22:02:12Z",
       "updated_at": "2026-10-22T22:03:27Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.22.1/crystal-1.22.1-windows-x86_64-msvc-unsupported.exe"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 55116769,
       "digest": "sha256:b544330c3bbca8fd1238af6f2552b2c89d50032274b2045bc1f0bc9ff55b058b",
-      "download_count": 168,
+      "download_count": 284,
       "created_at": "2026-10-22T22:03:05Z",
       "updated_at": "2026-10-22T22:04:02Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.22.1/crystal-1.22.1-windows-x86_64-msvc-unsupported.zip"
@@ -510,13 +510,13 @@
   "body": "### Bugfixes\r\n\r\n#### stdlib\r\n\r\n- _(crypto)_ **[security]** Fix invalid `OpenSSL::SSL::Options::ALL` option ([#17657], thanks @ysbaddaden)\r\n- _(crypto)_ Allow exactly 72 byte bcrypt passwords ([#17676], thanks @Blacksmoke16)\r\n- _(networking)_ **[regression]** Send `Content-Length: 0` for `POST` and `PUT` without body ([#17631], thanks @dentarg)\r\n- _(networking)_ **[regression]** Send `Content-Length: 0` for `PATCH` without body ([#17632], thanks @dentarg)\r\n- _(runtime)_ **[regression]** Fix `Fiber::ExecutionContext::Isolated` resuming its fiber without an event ([#17630], thanks @dentarg)\r\n- _(runtime)_ Refactor io_uring event loop's sleep to use timers ([#17655], thanks @ysbaddaden)\r\n- _(runtime)_ Fix adjust IP before resolving backtraces ([#17622], thanks @ysbaddaden)\r\n- _(runtime)_ Fix race condition in select timeout action ([#17640], thanks @ysbaddaden)\r\n- _(runtime)_ `Crystal.init_runtime` must create main Thread and Fiber ([#17688], thanks @ysbaddaden)\r\n- _(serialization)_ Fix out-of-bounds reads in `XML::Node#name` ([#17648], thanks @zw963)\r\n- _(system)_ Fix `FileUtils.rm_r` failing on a symlink loop ([#17613], thanks @jochenseeber)\r\n- _(text)_ **[regression]** Fix out-of-bound access in `String#scan_byte_index` ([#17625], thanks @HertzDevil)\r\n- _(text)_ Fix `String::Builder` buffer grows capacity for trailing zero ([#17650], thanks @straight-shoota)\r\n\r\n[#17613]: https://github.com/crystal-lang/crystal/pull/17613\r\n[#17622]: https://github.com/crystal-lang/crystal/pull/17622\r\n[#17625]: https://github.com/crystal-lang/crystal/pull/17625\r\n[#17630]: https://github.com/crystal-lang/crystal/pull/17630\r\n[#17631]: https://github.com/crystal-lang/crystal/pull/17631\r\n[#17632]: https://github.com/crystal-lang/crystal/pull/17632\r\n[#17640]: https://github.com/crystal-lang/crystal/pull/17640\r\n[#17648]: https://github.com/crystal-lang/crystal/pull/17648\r\n[#17650]: https://github.com/crystal-lang/crystal/pull/17650\r\n[#17655]: https://github.com/crystal-lang/crystal/pull/17655\r\n[#17657]: https://github.com/crystal-lang/crystal/pull/17657\r\n[#17676]: https://github.com/crystal-lang/crystal/pull/17676\r\n[#17688]: https://github.com/crystal-lang/crystal/pull/17688\r\n\r\n#### compiler\r\n\r\n- _(codegen)_ Do not redeclare lib funs or LLVM intrinsics in the main LLVM module ([#17637], [#17672], thanks @HertzDevil)\r\n- _(debugger)_ Set debug location before inlining a call ([#17602], thanks @Blacksmoke16)\r\n- _(semantic)_ Fix propagate raises state to target defs in call cycles ([#17656], thanks @ysbaddaden)\r\n- _(semantic)_ Fix `IndexError` condition in strict 1-to-n assignment with splats ([#17675], thanks @HertzDevil)\r\n\r\n[#17602]: https://github.com/crystal-lang/crystal/pull/17602\r\n[#17637]: https://github.com/crystal-lang/crystal/pull/17637\r\n[#17656]: https://github.com/crystal-lang/crystal/pull/17656\r\n[#17672]: https://github.com/crystal-lang/crystal/pull/17672\r\n[#17675]: https://github.com/crystal-lang/crystal/pull/17675\r\n\r\n### Chores\r\n\r\n#### stdlib\r\n\r\n- _(networking)_ Disable kernel TLS by default again ([#17649], thanks @straight-shoota)\r\n\r\n[#17649]: https://github.com/crystal-lang/crystal/pull/17649\r\n\r\n### Infrastructure\r\n\r\n- Add changelog for 1.22.1 ([#17683], thanks @straight-shoota)\r\n- Update distribution-scripts ([#17699], thanks @straight-shoota)\r\n\r\n[#17683]: https://github.com/crystal-lang/crystal/pull/17683\r\n[#17699]: https://github.com/crystal-lang/crystal/pull/17699\r\n\r\n",
   "reactions": {
     "url": "https://api.github.com/repos/crystal-lang/crystal/releases/421100274/reactions",
-    "total_count": 15,
+    "total_count": 16,
     "+1": 3,
     "-1": 0,
     "laugh": 1,
     "hooray": 3,
     "confused": 0,
-    "heart": 6,
+    "heart": 7,
     "rocket": 2,
     "eyes": 0
   },
