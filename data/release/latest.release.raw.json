@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 59789816,
       "digest": "sha256:a37341e3caca06790bd89447e0c264d9f0d9824e0eae050e35bdebb027796433",
-      "download_count": 265,
+      "download_count": 419,
       "created_at": "2026-11-13T21:53:57Z",
       "updated_at": "2026-11-13T21:55:44Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.22.3/crystal-1.22.3-1-darwin-universal.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 59278596,
       "digest": "sha256:cb6656dd631517e376a068c4567d59c07a88dc3b41e42d2e03e7c20be290e112",
-      "download_count": 8,
+      "download_count": 21,
       "created_at": "2026-11-13T21:53:57Z",
       "updated_at": "2026-11-13T21:55:40Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.22.3/crystal-1.22.3-1-linux-aarch64-bundled.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 59043721,
       "digest": "sha256:02910ae35115126646d69f8cdfc74032593435979d686bd3cdc906db8fe90766",
-      "download_count": 71,
+      "download_count": 101,
       "created_at": "2026-11-13T21:53:57Z",
       "updated_at": "2026-11-13T21:55:46Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.22.3/crystal-1.22.3-1-linux-aarch64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 61899990,
       "digest": "sha256:140302ecb6316b6202895caf3a4764810a0d60b0ca2d81c8156891171dc2ff60",
-      "download_count": 44,
+      "download_count": 71,
       "created_at": "2026-11-13T21:53:57Z",
       "updated_at": "2026-11-13T21:55:36Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.22.3/crystal-1.22.3-1-linux-x86_64-bundled.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 61645743,
       "digest": "sha256:a4dafcc638cb4581c77d711180f1116a9f41b420c071b7fc61cdc35381546ab5",
-      "download_count": 1181,
+      "download_count": 1864,
       "created_at": "2026-11-13T21:53:57Z",
       "updated_at": "2026-11-13T21:55:24Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.22.3/crystal-1.22.3-1-linux-x86_64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 59949235,
       "digest": "sha256:1e027baeb3059929d16062bdb42e92a4593d744cb2ce1ad1067de8c62454ab40",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-11-13T21:55:25Z",
       "updated_at": "2026-11-13T21:56:53Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.22.3/crystal-1.22.3-1.universal.pkg"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 17429444,
       "digest": "sha256:bac6c36f0b094597184cde547916aea9ace9fa04d85c9a87da7f7f061fc3c713",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-11-13T21:55:37Z",
       "updated_at": "2026-11-13T21:56:02Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.22.3/crystal-1.22.3-docs.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 60715670,
       "digest": "sha256:b536d46d43a48b1993ab4177406cf103ebd76252a8cdc9185d880c3a9691256d",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-11-13T21:55:41Z",
       "updated_at": "2026-11-13T21:57:36Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.22.3/crystal-1.22.3-windows-aarch64-gnu-unsupported.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 36210256,
       "digest": "sha256:5f3f033e0f0744b9d559ce674df56450ac98593199b1d9e0705e562689441c49",
-      "download_count": 25,
+      "download_count": 28,
       "created_at": "2026-11-13T21:55:45Z",
       "updated_at": "2026-11-13T21:56:33Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.22.3/crystal-1.22.3-windows-aarch64-msvc-unsupported.exe"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 49983551,
       "digest": "sha256:4bca08e2ae48bc190b505f1c6fd0da6634a7d1177990493600d4fdf89d03c77e",
-      "download_count": 11,
+      "download_count": 19,
       "created_at": "2026-11-13T21:55:48Z",
       "updated_at": "2026-11-13T21:56:56Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.22.3/crystal-1.22.3-windows-aarch64-msvc-unsupported.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 62472575,
       "digest": "sha256:d2ca45f6a8e12df99af86faff9df659ad0c6b1b534aebbdebf5558463290a686",
-      "download_count": 10,
+      "download_count": 14,
       "created_at": "2026-11-13T21:56:03Z",
       "updated_at": "2026-11-13T21:57:32Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.22.3/crystal-1.22.3-windows-x86_64-gnu-unsupported.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 39132679,
       "digest": "sha256:3ec467e448c75902a512c28ddf95e41dec64ec1b17054cdfdae68665f86f5f80",
-      "download_count": 42,
+      "download_count": 53,
       "created_at": "2026-11-13T21:56:34Z",
       "updated_at": "2026-11-13T21:57:23Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.22.3/crystal-1.22.3-windows-x86_64-msvc-unsupported.exe"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 55123279,
       "digest": "sha256:23342bbff1c60ec3cf4e2ffb0111fb842d5de71a0d7706f8df62985d709b7b78",
-      "download_count": 266,
+      "download_count": 369,
       "created_at": "2026-11-13T21:56:54Z",
       "updated_at": "2026-11-13T21:57:41Z",
       "browser_download_url": "https://github.com/crystal-lang/crystal/releases/download/1.22.3/crystal-1.22.3-windows-x86_64-msvc-unsupported.zip"
@@ -510,8 +510,8 @@
   "body": "### Bugfixes\r\n\r\n#### stdlib\r\n\r\n- _(collection)_ **[regression]** Fix `Enum.parse?` max bytesize buffer limit ([#17836], thanks @straight-shoota)\r\n- _(crypto)_ Reject malformed Bcrypt hashes ([#17677], thanks @Blacksmoke16)\r\n- _(networking)_ **[security]** Fix validate service for `getaddrinfo` is in range ([#17848], thanks @straight-shoota)\r\n- _(networking)_ **[security]** Fix reject control whitespace before field value in HTTP headers ([#17903], thanks @ysbaddaden)\r\n- _(networking)_ **[security]** Fix `close` token in `Connection` header must close connection ([#17904], thanks @ysbaddaden)\r\n- _(networking)_ **[security]** Fix `HTTP::ChunkedContent` must validate the chunk-line ([#17898], thanks @ysbaddaden)\r\n- _(networking)_ **[security]** Fix HTTP must validate content-length header ([#17902], thanks @ysbaddaden)\r\n- _(runtime)_ **[security]** Fix `IO::Delimited` matching after a fragmented delimiter mismatch ([#17916], thanks @ysbaddaden)\r\n- _(serialization)_ Fix reject NUL byte in IO-based JSON lexer ([#17897], thanks @straight-shoota)\r\n- _(system)_ Fix `Process::INITIAL_PWD` to ignore access denied error ([#17748], thanks @straight-shoota)\r\n- _(system)_ Fix `File.symlink` discover target file type on Windows ([#17742], thanks @straight-shoota)\r\n\r\n[#17677]: https://github.com/crystal-lang/crystal/pull/17677\r\n[#17742]: https://github.com/crystal-lang/crystal/pull/17742\r\n[#17748]: https://github.com/crystal-lang/crystal/pull/17748\r\n[#17836]: https://github.com/crystal-lang/crystal/pull/17836\r\n[#17848]: https://github.com/crystal-lang/crystal/pull/17848\r\n[#17897]: https://github.com/crystal-lang/crystal/pull/17897\r\n[#17898]: https://github.com/crystal-lang/crystal/pull/17898\r\n[#17902]: https://github.com/crystal-lang/crystal/pull/17902\r\n[#17903]: https://github.com/crystal-lang/crystal/pull/17903\r\n[#17904]: https://github.com/crystal-lang/crystal/pull/17904\r\n[#17916]: https://github.com/crystal-lang/crystal/pull/17916\r\n\r\n### Infrastructure\r\n\r\n- Changelog for 1.22.3 ([#17924], thanks @straight-shoota)\r\n- Release 1.22.3 ([#17925], thanks @straight-shoota)\r\n\r\n[#17924]: https://github.com/crystal-lang/crystal/pull/17924\r\n[#17925]: https://github.com/crystal-lang/crystal/pull/17925\r\n\r\n",
   "reactions": {
     "url": "https://api.github.com/repos/crystal-lang/crystal/releases/444496146/reactions",
-    "total_count": 8,
-    "+1": 3,
+    "total_count": 10,
+    "+1": 5,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
