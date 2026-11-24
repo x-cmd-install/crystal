@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.22.3` (2026-11-13)
-- **Last commit**: 2026-11-22
+- **Last commit**: 2026-11-24
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 20,518 · **Forks**: 1,810 · **Open issues**: 8,261 · **Contributors**: 559
+- **Stars**: 20,517 · **Forks**: 1,810 · **Open issues**: 8,263 · **Contributors**: 559
 
 ## Totals (cumulative)
 
-- **Releases**: 149 · **Merged PRs**: 7770 · **Open PRs**: 404 · **Closed issues**: 6509 · **Open issues**: 1752 · **Commits**: 17313
+- **Releases**: 149 · **Merged PRs**: 7771 · **Open PRs**: 413 · **Closed issues**: 6509 · **Open issues**: 1754 · **Commits**: 17314
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 2 | 147 | 76 | 16 | 40 | 168 |
-| last60d | 2026-09-24 | 5 | 255 | 123 | 52 | 82 | 277 |
-| 90d | 2026-08-25 | 5 | 363 | 143 | 64 | 95 | 399 |
-| last180d | 2026-05-27 | 7 | 541 | 163 | 108 | 125 | 613 |
-| 360d | 2025-11-28 | 13 | 886 | 197 | 194 | 175 | 1033 |
-| last720d | 2024-12-03 | 25 | 1673 | 219 | 369 | 322 | 1715 |
+| 30d | 2026-10-25 | 2 | 145 | 81 | 16 | 42 | 169 |
+| last60d | 2026-09-25 | 5 | 249 | 129 | 52 | 81 | 278 |
+| 90d | 2026-08-26 | 5 | 360 | 151 | 63 | 97 | 400 |
+| last180d | 2026-05-28 | 7 | 538 | 172 | 108 | 126 | 614 |
+| 360d | 2025-11-29 | 13 | 884 | 206 | 193 | 176 | 1034 |
+| last720d | 2024-12-04 | 25 | 1673 | 228 | 369 | 324 | 1712 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for crystal lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:30:33Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T09:49:11Z._
