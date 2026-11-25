@@ -14,11 +14,11 @@ x install crystal
 
 ## Code insight
 
-Total: **411,258** lines of code across **2478** files in the top 5 languages.
+Total: **411,332** lines of code across **2478** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Crystal | 394,943 | 57,244 | 70,688 | 2426 |
+| Crystal | 395,017 | 57,242 | 70,708 | 2426 |
 | JavaScript | 10,211 | 1,110 | 1,359 | 14 |
 | Css | 1,372 | 46 | 249 | 7 |
 | PowerShell | 628 | 65 | 83 | 12 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 20,517 · **Forks**: 1,810 · **Open issues**: 8,263 · **Contributors**: 559
+- **Stars**: 20,520 · **Forks**: 1,808 · **Open issues**: 8,264 · **Contributors**: 559
 
 ## Totals (cumulative)
 
-- **Releases**: 149 · **Merged PRs**: 7771 · **Open PRs**: 413 · **Closed issues**: 6509 · **Open issues**: 1754 · **Commits**: 17314
+- **Releases**: 149 · **Merged PRs**: 7778 · **Open PRs**: 414 · **Closed issues**: 6511 · **Open issues**: 1753 · **Commits**: 17321
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 2 | 145 | 81 | 16 | 42 | 169 |
-| last60d | 2026-09-25 | 5 | 249 | 129 | 52 | 81 | 278 |
-| 90d | 2026-08-26 | 5 | 360 | 151 | 63 | 97 | 400 |
-| last180d | 2026-05-28 | 7 | 538 | 172 | 108 | 126 | 614 |
-| 360d | 2025-11-29 | 13 | 884 | 206 | 193 | 176 | 1034 |
-| last720d | 2024-12-04 | 25 | 1673 | 228 | 369 | 324 | 1712 |
+| 30d | 2026-10-26 | 2 | 145 | 83 | 17 | 42 | 177 |
+| last60d | 2026-09-26 | 5 | 254 | 129 | 52 | 80 | 286 |
+| 90d | 2026-08-27 | 5 | 364 | 150 | 64 | 97 | 408 |
+| last180d | 2026-05-29 | 7 | 541 | 173 | 108 | 126 | 622 |
+| 360d | 2025-11-30 | 13 | 891 | 206 | 194 | 176 | 1042 |
+| last720d | 2024-12-05 | 25 | 1680 | 229 | 370 | 324 | 1716 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for crystal lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:49:11Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:22:10Z._
